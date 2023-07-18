@@ -1,5 +1,6 @@
 @echo off
 title Menghitung Operasi Matematika 1
+rem ============== CETAK VARIABEL YANG DIBUTUHKAN ==============
 echo -------------- Menghitung Variabel --------------
 echo a = 50
 echo b = 7
@@ -15,7 +16,7 @@ set /a c= 2
 set /a d= 5
 set /a e= 3
 set /a f= 1
-set /a hasil = (a*(b+c))/((d+e)(c+f))
+set /a hasil = (a*(b+c))/((d+e)*(c+f))
 echo -------------- Hasil Perhitungan --------------
 echo Hasilnya adalah : %hasil%
 pause
