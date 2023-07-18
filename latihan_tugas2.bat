@@ -1,5 +1,6 @@
 @echo off
 title Menghitung Operasi Matematika 2
+rem ============== CETAK VARIABEL YANG DIBUTUHKAN ==============
 echo -------------- Menghitung Variabel --------------
 echo a = 5
 echo b = 7
@@ -15,7 +16,7 @@ set /a c= 6
 set /a d= 110
 set /a e= 50
 set /a f= 4
-set /a hasil = ((5+5)(7*6))/((110-50)-(4*5))
+set /a hasil = ((5+5)*(7*6))/((110-50)-(4*5))
 echo -------------- Hasil Perhitungan --------------
 echo Hasilnya adalah : %hasil%
 pause
