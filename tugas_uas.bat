@@ -3,7 +3,10 @@
 rem ========== TUGAS UAS SISTEM OPERASI ==========
 
 :login
-  cls
+	cls
 	echo --------------------------------
 	echo            LOGIN USER
 	echo --------------------------------
+
+:begin
+
