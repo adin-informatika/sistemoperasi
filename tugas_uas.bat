@@ -26,3 +26,8 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Keluar
 	echo.
 
+:akademik
+	cls
+
+:perbaikan_komputer
+
