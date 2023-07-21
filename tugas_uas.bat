@@ -28,6 +28,9 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 
 :akademik
 	cls
+	echo Nama :
+	echo NIM :
+	echo Prodi :
 
 :perbaikan_komputer
 
