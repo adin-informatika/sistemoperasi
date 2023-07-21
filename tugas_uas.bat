@@ -14,4 +14,15 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	else
 
 :begin
+	cls
+	echo --------------------------------
+	echo           PILHAN MENU
+	echo --------------------------------
+	echo Menu Akademik
+	echo Menu Perbaikan Komputer
+	echo Menu Jaringan Komputer
+	echo Menu Aplikasi
+	echo Menu Setting
+	echo Keluar
+	echo.
 
