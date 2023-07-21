@@ -33,4 +33,8 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Prodi :
 
 :perbaikan_komputer
+	echo Menu Perbaikan Komputer
+
+:jaringan_komputer
+	cls
 
