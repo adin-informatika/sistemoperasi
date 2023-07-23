@@ -36,5 +36,7 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Menu Perbaikan Komputer
 
 :jaringan_komputer
-	cls
+	echo Menu Jaringan Komputer
+	echo cek ip
+	echo ping domain
 
