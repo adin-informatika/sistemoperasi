@@ -33,10 +33,16 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Prodi :
 
 :perbaikan_komputer
+	cls
+	echo --------------------------------
 	echo Menu Perbaikan Komputer
+	echo --------------------------------
 
 :jaringan_komputer
+	cls
+	echo --------------------------------
 	echo Menu Jaringan Komputer
+	echo --------------------------------
 	echo cek ip
 	echo ping domain
 
