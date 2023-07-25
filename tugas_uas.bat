@@ -12,7 +12,6 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 
 	if %password% == 123 goto begin
 	else
-
 :begin
 	cls
 	echo --------------------------------
@@ -25,7 +24,6 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Menu Setting
 	echo Keluar
 	echo.
-
 :akademik
 	cls
 	echo Nama :
