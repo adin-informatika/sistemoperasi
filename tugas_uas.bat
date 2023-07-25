@@ -29,13 +29,11 @@ rem ========== TUGAS UAS SISTEM OPERASI ==========
 	echo Nama :
 	echo NIM :
 	echo Prodi :
-
 :perbaikan_komputer
 	cls
 	echo --------------------------------
 	echo Menu Perbaikan Komputer
 	echo --------------------------------
-
 :jaringan_komputer
 	cls
 	echo --------------------------------
